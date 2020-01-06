@@ -31,4 +31,4 @@ data_str = dict[the_region].to_html()，text = texts[the_region]，ending = endi
 ![第二页](https://images.gitee.com/uploads/images/2020/0106/001028_d87ec5c8_2229424.png)
 ![第二页](https://images.gitee.com/uploads/images/2020/0106/004819_75784f07_2229424.png)
 
-* pythonanywhere链接：http://pwy.pythonanywhere.com/
+* pythonanywhere链接：http://aylinwasson.pythonanywhere.com/
